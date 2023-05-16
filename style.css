@@ -29,7 +29,7 @@
 }
 .content-wraper{}
 .headings{
-    height: 520px;
+    height: 535px;
     width: 20%;
     float: left;
     background: #CFD0A9;
@@ -42,7 +42,7 @@
 }
 .Headings p{}
 .Website{
-    height: 520px;
+    height: 535px;
     width: 60%;
     float: left;
     text-align: center;
@@ -59,11 +59,14 @@
     margin: 0px 20px;
     text-align: justify;
 }
-button{
+button {
     color: #fff;
     background: #0F7714;
     font-size: 18px;
     margin: 10px;
+    border: none;
+    padding: 7px 17px;
+    border-radius: 5px;
 }
 .footer{
     background-color: #000000;
